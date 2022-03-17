@@ -1,0 +1,36 @@
+{
+  "background_color": "#ffffff",
+  "description": "It is a design partner company that combines web and sign based on visual design.\r\nWe would like to grow together as a design partner for companies located in Silom, Bangkok, Thailand.\r\nKorean designers work to highlight familiarity and provide designs suitable for Korean culture.\r\nMeet a unique design that combines Korean and Thai culture.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "sciencedesign",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "SDG",
+  "start_url": "https://sciencedesign.github.io/sdg1727/",
+  "theme_color": "#00b990",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
